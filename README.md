@@ -53,8 +53,8 @@ Ten business questions answered in [`pg sql.sql`](pg%20sql.sql):
 
 ### 3. Dashboard (Power BI)
 Interactive dashboard in [`Customer Behavior Dashboard.pbix`](Customer%20Behavior%20Dashboard.pbix) with KPI cards (3.9K customers, $59.76 average purchase, 3.75 average rating), subscription split, revenue and sales by category and by age group, and slicers for subscription status, gender, category and shipping type.
+<img width="645" height="421" alt="image" src="https://github.com/user-attachments/assets/ee047d0e-fcb7-451e-8d2e-b495560576f6" />
 
----
 
 ## Key Findings
 
